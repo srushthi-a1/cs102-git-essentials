@@ -1,0 +1,5 @@
+git clone- It makes a copy of the repository in the directory created.
+git add - It adds/ includeds the changes made.
+git commit - It makes the changes made permanent. 
+git push - It sends the changes made in the directory to the repository.
+git pull - It fetches the changes made in the repository to the local directory.
